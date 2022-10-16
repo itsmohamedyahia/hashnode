@@ -58,7 +58,7 @@ GIT_COMMITTER_DATE=<date> git commit --amend --no-edit --date <date>
 
 If you will use this command multiple times, you could make your own git command that corresponds to this long command with its options. 
 
-To make it, you will run git config command as follows
+To make it, you will run git config command as follows:
 
 ```
 git config --global alias.<new-commit-name> <new-commit-correspondent>
@@ -68,7 +68,7 @@ git config --global alias.<new-commit-name> <new-commit-correspondent>
 
 `alias` is just a convention name to use for custom commands.
 
-So to set an alias for the previous command, we will run this command
+So to set an alias for the previous command, we will run this command:
 
 ```
 git config --global alias.dch commit --amend --no-edit --date
