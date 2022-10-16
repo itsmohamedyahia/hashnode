@@ -74,8 +74,8 @@ git dch "17/08/22 10:10:10"
 
 
 ### Resources
-1. https://git-scm.com/docs/git-commit#Documentation/git-commit.txt
-2. https://codewithhugo.com/change-the-date-of-a-git-commit/
-3. https://sabe.io/blog/change-date-git-commit
-4. https://www.unixtimestamp.com/
-5. https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
+1. [Git Documentation- Git commit](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt)
+2. [Change the date of a git commit - Article by Hugo](https://codewithhugo.com/change-the-date-of-a-git-commit/)
+3. [Change date git commit - Article by Alan Morel](https://sabe.io/blog/change-date-git-commit)
+4. [Unix Timestamp Website](https://www.unixtimestamp.com/)
+5. [Introduction to environment variables - Medium Article](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
