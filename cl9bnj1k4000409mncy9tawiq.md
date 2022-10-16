@@ -1,14 +1,6 @@
 # How to change a Git commit date (for beginners)
 
-# Why
-
-I don't know what you will benefit from changing a git commit date, but a use that might come to my mind, and which I already used it for is converting a project you have been manually copying and making versions out of it like when make or do a file or a project and name it " file final" then "file final final" then "file finale" and so on like what I was previously doing before being introduced to Git to a sophisticated version control system like Git and keep original dates.
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665869524256/SCRMdghta.png align="left")
-
-
-# How
-
-> From now on, I am assuming you know git commit command and its option --amend. If not, then read about them in the [docs](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt).
+> I am assuming you know git commit command and its option --amend. If not, then read about them in the [docs](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt).
 
 So, this is the template code:
 
