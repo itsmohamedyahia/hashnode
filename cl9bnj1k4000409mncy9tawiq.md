@@ -2,7 +2,7 @@
 
 # Why
 
-I don't know what you will benefit from changing a git commit date, but use that might come to my mind, and which I already used it for is converting a project you have been manually copying and making versions out of it like when make or do a file or a project and name it " file final" then "file final final" then "file finale" and so on like what I was previously doing before being introduced to Git to a sophisticated version control system like Git and keep original dates.
+I don't know what you will benefit from changing a git commit date, but a use that might come to my mind, and which I already used it for is converting a project you have been manually copying and making versions out of it like when make or do a file or a project and name it " file final" then "file final final" then "file finale" and so on like what I was previously doing before being introduced to Git to a sophisticated version control system like Git and keep original dates.
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665869524256/SCRMdghta.png align="left")
 
 
