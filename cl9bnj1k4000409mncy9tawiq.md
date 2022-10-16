@@ -41,15 +41,49 @@ So the 7th of April, 2005 at 22:13:13 with a time zone that is ahead of UTC by 2
 
 `--no edit` option amends the commit without launching the editor since you only want to change the date and not the commit message.
 
-So if you want to change the date to 17 Aug 2022 at 08:19:19 for example then your git command could be like this:
+So if you want to change the date to 17 Aug 2022 at 08:19:19 then your git command could be like this:
 
 ```
 git commit --amend --no-edit --date "17/08/22 20:19:19 +0200"
 ```
-If, for some reason, that doesn't work for you (running an old version of Git, ..etc), then you can add `GIT_COMMITTER_DATE=<date>` before the command like this:
+If, for some reason, that doesn't work for you, then you can add `GIT_COMMITTER_DATE=<date>` before the command like this:
 
 ```
 GIT_COMMITTER_DATE=<date> git commit --amend --no-edit --date <date>
 ```
 
-`GIT_COMMITTER_DATE` is an environment variable ([Read More Here](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)) in which you will set the `<date>`. An environment variable is like any variable but it affects the environment in which the program runs. Here, it kind of tricks Git into thinking it is running the commit on a different date.
+`GIT_COMMITTER_DATE` is an environment variable ([Read More Here](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)) in which you will set the `<date>`. An environment variable is like any variable but it affects the environment in which the program runs. Here, it kind of tricks Git into thinking it is running the commit on the current date.
+
+## Setting an Alias
+
+If you will use this command multiple times, you could make your own git command that corresponds to this long command with its options. 
+
+To make it, you will run git config command as follows
+
+```
+git config --global alias.<new-commit-name> <new-commit-correspondent>
+```
+
+`--global` makes it so that new git command can be used in all git repos made by you on the pc.
+
+`alias` is just a convention name to use for custom commands.
+
+So to set an alias for the previous command, we will run this command
+
+```
+git config --global alias.dch commit --amend --no-edit --date
+```
+`dch` which is the custom command i chose to change the date of a commit.
+
+There's a missing part though, the actual date but since the date is an argument, we could add it when we are running our alias like this:
+```
+git dch "17/08/22 10:10:10"
+```
+
+
+### Resources
+1. https://git-scm.com/docs/git-commit#Documentation/git-commit.txt
+2. https://codewithhugo.com/change-the-date-of-a-git-commit/
+3. https://sabe.io/blog/change-date-git-commit
+4. https://www.unixtimestamp.com/
+5. https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
