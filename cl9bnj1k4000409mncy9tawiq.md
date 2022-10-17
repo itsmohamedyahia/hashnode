@@ -27,7 +27,7 @@ So the 7th of April, 2005 at 22:13:13 with a time zone that is ahead of UTC by 2
 `2005-04-07T22:13:13` or
 `2005-04-07 22:13:13`
 
-> **Note:** The date part (without time) could be replaced with simpler formats like these `YYYY.MM.DD, MM/DD/YYYY, and DD.MM.YYYY`.
+> **Note:** The date part (without time) could be written in any of the following formats: `YYYY.MM.DD, MM/DD/YYYY, and DD.MM.YYYY`.
 
 `<time zone offset>` is just the offset in hours and minutes either ahead from or after UTC. For example, EET (which is 2 hours ahead of UTC) is `+0200`
 
