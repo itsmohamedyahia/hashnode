@@ -20,7 +20,7 @@ So the 7th of April, 2005 at 22:13:13 with a time zone that is ahead of UTC by 2
 `07 Apr 2005 22:13:13` or
 `Fri 07 Apr 2005 22:13:13` 
 
-> **Note:** As you may have noticed in the last example, I have written Friday instead of Thursday which you may think is a typo, but it isn't. You can write the day abbreviation wrong and it won't affect the date or be recorded falsely.
+> **Note:** As you may have noticed in the last example, I have written Friday instead of Thursday which you may think is a mistake, but it isn't. You can write the day abbreviation wrong and it won't affect the date or be recorded falsely.
 
 [ISO 8601](https://git-scm.com/docs/git-commit/2.24.0#Documentation/git-commit.txt-ISO8601)
 
