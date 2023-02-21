@@ -3,7 +3,7 @@
 The difference between those three commands can be inferred from their parameters and flags.
 
 ```bash
-Git add . 
+Git add .
 ```
 
 **What does . mean?**
@@ -14,7 +14,7 @@ That's right. It means the current directory. So, `git add .` adds all files and
 Git add -a
 ```
 
-`-a` flag is the shorter version of the `-all` flag, and as can be inferred it means adding all files and folders, but isn't that what `git add .` does? Well, you missed "the current directory" part. *I know you haven't missed it, smart guy, I am just playing with you* .
+`-a` flag is the shorter version of the `--all` flag, and as can be inferred it means adding all files and folders, but isn't that what `git add .` does? Well, you missed "the current directory" part. *I know you haven't missed it, smart guy, I am just playing with you* .
 
 Getting back to the point, `git add -a` adds all files or folders in the whole repository, not just the current directory.
 
