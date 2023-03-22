@@ -3,6 +3,7 @@ title: "Namespaces Abstracted"
 datePublished: Wed Mar 22 2023 19:21:47 GMT+0000 (Coordinated Universal Time)
 cuid: clfk2mdau000009mn6h5uhs1k
 slug: namespaces-abstracted
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679513823528/4300e797-d728-45ea-9d4d-3df3516531ef.png
 tags: javascript, computer-science
 
 ---
