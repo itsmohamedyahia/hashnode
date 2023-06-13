@@ -10,7 +10,7 @@ tags: web-development, nodejs, backend, webdev
 
 This is the first chapter of a series in which I will share everything I learnt about Nodejs. The drive behind beginning this series is that I want to reinforce my knowledge so far and I want to develop my teaching skills.
 
-The information will be delivered interactively as if you are a reader with a curious mindset, reading and asking questions in your mind, which I will then address and answer.
+The information will be delivered interactively as if you are a reader with a curious mindset, reading and asking questions in your mind, which I will then address and answer. The language will be simple and concise to my ability, as I think it is better for faster reading and comprehension.
 
 What are we waiting for !!? **LETS BEGIN.**
 
