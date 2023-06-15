@@ -3,6 +3,7 @@ title: "Exploring Nodejs: Chapter 2 — URLS AND THE INTERNET"
 datePublished: Thu Jun 15 2023 18:30:12 GMT+0000 (Coordinated Universal Time)
 cuid: clixh7g0d000709ktfj4ogghy
 slug: exploring-nodejs-chapter-2-urls-and-the-internet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686853835989/75ce7e9c-5e8e-4f1f-9cbc-46e76eb78de1.png
 tags: tutorial, web-development, nodejs, backend, webdev
 
 ---
