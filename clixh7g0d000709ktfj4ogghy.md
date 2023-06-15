@@ -30,7 +30,7 @@ and it consists of some parts as shown in the image:
 
 Lets focus on the domain for a second, we refer to `wikipedia` as the domain or [`en.wikipedia.org`](http://en.wikipedia.org) can be called the domain name too,
 
-## HEY, WHY IS IT CALLED A DOMAIN??
+### HEY, WHY IS IT CALLED A DOMAIN??
 
 Just wait for a second, be patient, that domain, mmm, well, lets get back a second, i get back a page when i enter the url, **BUT WHERE IS THIS PAGE STORED??**
 
@@ -46,7 +46,7 @@ When a computer is connected to a router, it is given an ip address and your rou
 
 When you enter an ip address in the address bar, the browser sends a request to the server to fetch the files, the file or files sent back is determined by a set of code which tells the server, hey, if you get a certain request, send a certain response. That set of code is the 'backend' and can be written by multiple languages, one of which is Javascript and will be run by Nodejs, the runtime environment.
 
-## **BUT WE ARE NOT WRITING IP ADDRESSES, ARE WE??**
+### **BUT WE ARE NOT WRITING IP ADDRESSES, ARE WE??**
 
 Well, we could, but for convenience, we are writing a url which the unique part of is the domain name. **DOES A SERVER HAS A DOMAIN NAME SO THAT WE COULD IDENTIFY IT WITH??**
 
@@ -54,7 +54,7 @@ No, servers have ip addresses. **BUT HOW DO WE GET THE FILES BACK FROM THE SERVE
 
 The browser sends a request to another server, a DNS (domain name system) server which holds a database with domain names corresponding to ip addresses with the domain name, the DNS server will make a 'domain lookup' (will make a query \[search and get\]) for the ip address associated with the domain name you typed and then your browser sends a request to the ip address.
 
-## **WHAT ABOUT HTTPS PART OF THE URL??**
+### **WHAT ABOUT HTTPS PART OF THE URL??**
 
 HTTPS stands for Hypertext Transfer Protocol Secure. **WHAT??**
 
@@ -68,7 +68,7 @@ HTTPS stands for Hypertext Transfer Protocol Secure. **WHAT??**
 
 Okay, chill, lets give an example, when you enter your account information (username and password) or card info to a website, you and then click login or pay, you are essentially sending a request to the server with the data. Now, someone might be watching that connection and be able to get the request data that you sent which will include your secret information. Now to avoid this issue, we can encrypt this connection (by TLS protocol or SSL, previously) so that anyone spying will see just encrypted data which he cant decrypt.
 
-## **YOU NEVER TOLD ME ABOUT THE OTHER PARTS OF THE URL.**
+### **YOU NEVER TOLD ME ABOUT THE OTHER PARTS OF THE URL.**
 
 One by one, my friend, okay let's talk about it.
 
