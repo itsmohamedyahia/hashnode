@@ -1,8 +1,8 @@
 ---
-title: "Exploring Nodejs Series: Chapter 1"
+title: "Exploring Nodejs Series: Chapter 1 — Intro To Nodejs"
 datePublished: Tue Jun 13 2023 19:55:11 GMT+0000 (Coordinated Universal Time)
 cuid: cliupd0ov000008lcb1lp170d
-slug: exploring-nodejs-series-chapter-1
+slug: exploring-nodejs-series-chapter-1-intro-to-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686680891872/d1ac7ef3-129f-48e3-b7f1-619fa9bacac0.png
 tags: web-development, nodejs, backend, webdev
 
