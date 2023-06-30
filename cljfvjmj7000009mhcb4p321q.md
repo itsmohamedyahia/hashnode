@@ -10,7 +10,7 @@ tags: tutorial, git, beginners
 
 ## Usecase
 
-Suppose you are working on a git branch, you have some changes, maybe you have some changes that in the working directory while some other changes you have staged them, but for whatever reason you want to check the main branch or any other branch for sth and you dont want to commit any changes yet.
+Suppose you are working on a git branch, you have some changes, maybe you have some changes in the working directory while some other changes in the staging area/index, but for whatever reason you want to check the main branch or any other branch for sth and you dont want to commit any changes yet.
 
 If you try to check to another branch while not commiting changes, there are two scenarios that could happen
 
