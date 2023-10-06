@@ -57,7 +57,7 @@ SYNOPSIS
 `FILE` means any object so a file or directory or other objects
 `...` means or more so you can add 0 or more options to ls, 0 or more objects 
 
-### How to navigate the synopsis
+### How to navigate less
 
 `q` to exit the less program of man
 `up and down arrows` up and down a line
