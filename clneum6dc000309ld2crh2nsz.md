@@ -3,6 +3,7 @@ title: "man pages"
 datePublished: Fri Oct 06 2023 16:56:29 GMT+0000 (Coordinated Universal Time)
 cuid: clneum6dc000309ld2crh2nsz
 slug: man-pages
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696611571670/5911459c-bcb9-4aa1-a761-230cdd329589.jpeg
 tags: tutorial, terminal, cli, beginners
 
 ---
