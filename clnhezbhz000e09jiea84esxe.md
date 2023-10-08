@@ -1,9 +1,9 @@
 ---
-title: "Bash Redirection"
+title: "Redirection in unix-like OSs"
 datePublished: Sun Oct 08 2023 12:02:07 GMT+0000 (Coordinated Universal Time)
 cuid: clnhezbhz000e09jiea84esxe
-slug: bash-redirection
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696766500888/e24aaa25-3360-4b45-913d-c1b8141c43c4.jpeg
+slug: redirection-in-unix-like-oss
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696778228172/e9a58bc0-73f3-4234-9ae4-e9b8cc9f6a8b.jpeg
 tags: terminal, bash, cli, beginners
 
 ---
