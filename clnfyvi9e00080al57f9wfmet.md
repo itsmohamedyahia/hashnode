@@ -3,6 +3,7 @@ title: "terminal vs shell vs cli vs bash— dont mix them up !"
 datePublished: Sat Oct 07 2023 11:43:29 GMT+0000 (Coordinated Universal Time)
 cuid: clnfyvi9e00080al57f9wfmet
 slug: terminal-vs-shell-vs-cli-vs-bash-dont-mix-them-up
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696766983091/b8838f14-0d78-416f-9168-50b80d2a546b.jpeg
 tags: terminal, bash, cli, beginners
 
 ---
