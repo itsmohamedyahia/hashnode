@@ -3,6 +3,7 @@ title: "tac and rev — cat's antagonists"
 datePublished: Sun Oct 08 2023 12:08:35 GMT+0000 (Coordinated Universal Time)
 cuid: clnhf7mzg000109mmfk1860dd
 slug: tac-and-rev-cats-antagonists
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696766928154/4b59bb97-95dc-41d8-8869-229c0f401c1a.jpeg
 tags: tutorial, terminal, bash, cli, beginners
 
 ---
