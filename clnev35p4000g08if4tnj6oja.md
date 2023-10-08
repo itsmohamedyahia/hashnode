@@ -3,6 +3,7 @@ title: "What is the meta key?"
 datePublished: Fri Oct 06 2023 17:09:41 GMT+0000 (Coordinated Universal Time)
 cuid: clnev35p4000g08if4tnj6oja
 slug: what-is-the-meta-key
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696779259270/d47c6f6e-1006-4c81-a5ff-33eabd96a92c.jpeg
 
 ---
 
