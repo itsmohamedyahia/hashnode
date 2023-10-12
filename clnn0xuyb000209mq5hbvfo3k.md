@@ -1,8 +1,8 @@
 ---
-title: "Expansion and Substitution in Unix-like Shells"
+title: "Expansion and Substitution in Unix-like Operating Systems"
 datePublished: Thu Oct 12 2023 10:15:41 GMT+0000 (Coordinated Universal Time)
 cuid: clnn0xuyb000209mq5hbvfo3k
-slug: expansion-and-substitution-in-unix-like-shells
+slug: expansion-and-substitution-in-unix-like-operating-systems
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697105677735/e8322b9f-b627-49c4-b29b-537412e0e08c.jpeg
 tags: linux, terminal, bash, beginners, linux-for-beginners
 
