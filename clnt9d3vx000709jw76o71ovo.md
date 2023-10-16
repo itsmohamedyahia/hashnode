@@ -16,7 +16,10 @@ After that a `package.json` file will be created. It will in a `json` format as 
 
 JSON is a text-based format for representing JS Objects. JSON stands for Javascript Object Notation. 
 
-![Alt text](image.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpg5q9gzmensxsv1y1ij.png)
+
+
 
 That is the default content of the file. The two curly braces and what's inside them is a JSON object literal. 
 
@@ -106,7 +109,9 @@ My focus here is that `npm run dev` has nothing to do with those frameworks/libr
 
 Just one more thing that is intuitive but the file is called package because its main purpose is to keep a list of all the packages (hence package.json) aka dependencies aka programs that your app needs to run. 
 
-![Alt text](image-2.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/29ozemgvgb8qzff8hxic.png)
+
 
 so in another key called `dependencies` it will store an object of the dependencies and the allowed versions so `^11.11.0` allows running newer minor verions so `11.12.0` is acceptable (middle or second number is the minor version, first is the major and the third i.e 0 in this case is for patch versions) 
 *Read more about semantic versioning to get a clear idea of how versioning works* 
