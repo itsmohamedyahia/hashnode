@@ -1,4 +1,12 @@
-# Git add . vs Git add -a vs Git add -u
+---
+title: "Git add . vs Git add -a vs Git add -u"
+datePublished: Mon Feb 20 2023 16:24:45 GMT+0000 (Coordinated Universal Time)
+cuid: cled135fi000j09mj0x6h0pwd
+slug: git-add-vs-git-add-a-vs-git-add-u
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676910230706/a4abf8fa-e7b2-41d3-afcd-fe3ca4823a18.png
+tags: git
+
+---
 
 The difference between those three commands can be inferred from their parameters and flags.
 
