@@ -29,7 +29,7 @@ function doSthElse() {
 doSthElse();
 ```
 
-The 'lexical scope' of the function above is the global context since it is worded/defined in the global space, but the invocation scope is the doSthElse function space since it runs there.
+The 'lexical scope' of the function above `doSth` is the global context since it is worded/defined in the global space, but the invocation scope is the doSthElse function space since it runs there.
 
 Now back to the closure definition.
 
