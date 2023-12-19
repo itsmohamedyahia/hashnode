@@ -8,7 +8,7 @@ tags: javascript, web-development, webdev
 
 ---
 
-A closure is a function with its outer lexical scope/environment.
+A closure is a function with its outer function lexical scope/environment.
 
 What does 'lexical' mean?
 
