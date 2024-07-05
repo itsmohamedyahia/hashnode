@@ -12,7 +12,7 @@ tags: tutorial, web-development, nodejs, backend, webdev
 
 ---
 
-### WHAT HAPPENS UNDER THE HOOD WHEN I ENTER A URL IN THE BROWSER ADDRESS BAR??
+### What happens under the hood when I enter a URL in the browser address bar?
 
 Well, you first need to know what a URL is.
 
@@ -34,7 +34,7 @@ URL stands for "uniform resource locator."
 
 Lets focus on the domain for a second. We refer to `wikipedia` as the domain. [`en.wikipedia.org`](http://en.wikipedia.org) can be called the domain name too.
 
-### HEY, WHY IS IT CALLED A DOMAIN??
+### Hey, why is it called a domain?
 
 **Just wait a second, be patient.** That domain, mmm, well, let's get back to that in a second. I get a page back when I enter the URL, **but where is this page stored?**
 
@@ -44,7 +44,7 @@ So, I enter the domain part (which is the unique part of a URL, if we're writing
 
 Well, it's not magic once you understand what happens. We have to think first: **how does our browser get to that other computer? They have to be connected, right?** That's right; they are both connected to the "internet."
 
-### **WHAT IS THE INTERNET EXACTLY, IS THAT SOME CLOUD IN THE SKY?**
+### What is the internet exactly, is that some cloud in the sky?
 
 The internet is much simpler than most people think. It is just wires. Yes, your computer is connected to another computer (server) through a wire unless you are connecting to Wi-Fi, then most of the pathway is wires. If you are connecting to Wi-Fi, that Wi-Fi will be connected to your router, then a modem (or a 3-in-1 device), then to your ISP infrastructure (which is essentially routers). Your ISP is connected to other main ISPs, and there are wires that cross seas and oceans to connect the whole world together! (If you are interested, you can see actual footage of the physical infrastructure of the 'internet' through this [YouTube video](https://www.youtube.com/watch?v=TNQsmPf24go).)
 
@@ -52,7 +52,7 @@ When a computer is connected to a router, it is given an IP address. Your router
 
 When you enter an IP address in the address bar, the browser sends a request to the server to fetch the files. The file or files sent back are determined by a set of code that tells the server, "Hey, if you get a certain request, send a certain response." That set of code is the 'backend' and can be written in multiple languages, one of which is JavaScript and will be run by Node.js, the runtime environment.
 
-### **BUT WE ARE NOT WRITING IP ADDRESSES, ARE WE??**
+### But we are not writing IP addresses, are we?
 
 Well, we could, but for convenience, we are writing a URL, the unique part of which is the domain name. **Does a server have a domain name so that we could identify it with?**
 
@@ -62,7 +62,7 @@ No, servers have IP addresses.
 
 The browser sends a request to another server, a DNS (Domain Name System) server, which holds a database with domain names corresponding to IP addresses. With the domain name, the DNS server will make a 'domain lookup' (query) for the IP address associated with the domain name you typed, and then your browser sends a request to the IP address.
 
-### **WHAT ABOUT HTTPS PART OF THE URL??**
+### What about HTTPS part of the URL?
 
 HTTPS stands for Hypertext Transfer Protocol Secure. **WHAT??**
 
@@ -70,13 +70,13 @@ HTTPS stands for Hypertext Transfer Protocol Secure. **WHAT??**
 
 'Transfer Protocol,' intuitive I think, is a protocol or a standard (something or structure that is set and agreed upon and followed) for transferring hypertext.
 
-**What about secure?**
+### **What about secure?**
 
 'Secure' means that the transfer process is secured. **You have to be more detailed than that?!**
 
 Okay, chill, let's give an example. When you enter your account information (username and password) or card info to a website, and then click login or pay, you are essentially sending a request to the server with the data. Now, someone might be watching that connection and be able to get the request data that you sent, which will include your secret information. Now, to avoid this issue, we can encrypt this connection (by TLS protocol or SSL, previously) so that anyone spying will see just encrypted data, which they can't decrypt.
 
-### **YOU NEVER TOLD ME ABOUT THE OTHER PARTS OF THE URL.**
+### You never told me about the other parts of the URL.
 
 One by one, my friend. Okay, let's talk about it.
 
@@ -84,7 +84,7 @@ One by one, my friend. Okay, let's talk about it.
 
 'Anchor': If you know CSS, then you would know that `#` is written in front of the element ID name in the CSS file or to form a CSS selector for that ID element, similar to when using the querySelector method in JS. When a link is written without an anchor, the browser opens the page at the top (the top part of the page will be the top of the HTML file). But if there is an anchor, [the browser will open t](https://www.google.com/)he page at the section or element which has an ID with the name after the `#` (the top of the page initially will be the section or element), and you can scroll up or down.
 
-### YOU THOUGHT SO.
+### You thought so.
 
 **I didn't forget! You wanted to know why a domain is called that.**
 
